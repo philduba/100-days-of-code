@@ -12,3 +12,6 @@ Configured build pipeline to deploy from Git to Staging automatically and tied i
 
 ### R1D3 [April 25, 2020]
 Configured pipeline jobs to be built with DSL, chaining build and deployment scripts to staging and production.
+
+### R1D4 [April 26, 2020]
+Rebuilt the Jenkins environment in DigitalOcean. Started moving all of the old Jenkins jobs over.
