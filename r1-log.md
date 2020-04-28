@@ -16,5 +16,8 @@ Configured pipeline jobs to be built with DSL, chaining build and deployment scr
 ### R1D4 [April 26, 2020]
 Rebuilt the Jenkins environment in DigitalOcean. Started moving all of the old Jenkins jobs over.
 
-### R1D4 [April 27, 2020]
+### R1D5 [April 27, 2020]
 Completed DigitalOcean rebuild of Jenkins with all previous Jenkins projects. Added agent to the Primary and executed projects on agent. Began Docker setup.
+
+### R1D6 [April 28, 2020]
+Spent time executing Docker/Jenkins integrations and learning Docker commands necessary. Wasn't full amount of Docker integration but I will look at that on a separate pathway.
