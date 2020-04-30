@@ -21,3 +21,6 @@ Completed DigitalOcean rebuild of Jenkins with all previous Jenkins projects. Ad
 
 ### R1D6 [April 28, 2020]
 Spent time executing Docker/Jenkins integrations and learning Docker commands necessary. Wasn't full amount of Docker integration but I will look at that on a separate pathway.
+
+### R1D7 [April 29, 2020]
+Didn't get real far in my AWS CodeDeploy setup. I have issues with the tutorial not following the full steps that AWS now has as it's not a 1-stop shop anymore but requires a lot more under the hood configuration.
