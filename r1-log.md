@@ -24,3 +24,9 @@ Spent time executing Docker/Jenkins integrations and learning Docker commands ne
 
 ### R1D7 [April 29, 2020]
 Didn't get real far in my AWS CodeDeploy setup. I have issues with the tutorial not following the full steps that AWS now has as it's not a 1-stop shop anymore but requires a lot more under the hood configuration.
+
+### R1D8 [April 30, 2020]
+I had to rebuild my AWS infrastructure since I apparently removed everything trying to figure out what was costing money (DB backups apparently). Now I have to setup everything to get back to learning deployment services.
+
+### R1D9 [May 1, 2020]
+Spent the day working on Lambda's, AWS Security, and getting it to work with on-premise resources.
